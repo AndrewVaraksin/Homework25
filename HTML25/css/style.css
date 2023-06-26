@@ -1,0 +1,9 @@
+.block {
+  width: 200px;
+  height: 200px;
+  background-color: blueviolet;
+  position: relative;
+  top: 40%;
+  left: 40%;
+  transform: skew(30deg) translate(20px);
+}
